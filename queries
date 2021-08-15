@@ -1,0 +1,23 @@
+#title: brasileiros, vivos com fotos opcionais
+SELECT ?humanLabel ?genderLabel ?image WHERE {
+  ?human wdt:P27 wd:Q155;
+    wdt:P31 wd:Q5;
+    wdt:P21 ?gender;
+  FILTER(NOT EXISTS { ?human wdt:P570 ?date. })
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE]". }
+  OPTIONAL { ?human wdt:P18 ?image. }
+}
+
+
+
+#title: veículos de notícias brasileiros
+SELECT ?jornalLabel ?tipoLabel ?jornal
+WHERE
+{
+  VALUES ?tipo {wd:Q41298 wd:Q11032 wd:Q1358344 wd:Q1153191 wd:Q6017523} .
+  ?jornal wdt:P31 ?tipo .
+  ?jornal wdt:P495 wd:Q155 .
+  FILTER NOT EXISTS {?jornal wdt:P576 ?date .}
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE]". }
+
+}

@@ -1,0 +1,886 @@
+[
+	{
+		"jornalLabel": "Época",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q287432"
+	},
+	{
+		"jornalLabel": "O Globo",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q970729"
+	},
+	{
+		"jornalLabel": "Veja",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q1886657"
+	},
+	{
+		"jornalLabel": "Billboard Brasil",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q1343828"
+	},
+	{
+		"jornalLabel": "O Estado de São Paulo",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q1628345"
+	},
+	{
+		"jornalLabel": "Nintendo World",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q603077"
+	},
+	{
+		"jornalLabel": "Valor Econômico",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q958931"
+	},
+	{
+		"jornalLabel": "O Dia",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q3347781"
+	},
+	{
+		"jornalLabel": "O Pasquim",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q3894172"
+	},
+	{
+		"jornalLabel": "Diário de Pernambuco",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q3480197"
+	},
+
+	{
+		"jornalLabel": "A Gazeta de Limeira",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q4656944"
+	},
+	{
+		"jornalLabel": "Caros Amigos",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q5045533"
+	},
+	{
+		"jornalLabel": "CartaCapital",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q5047031"
+	},
+	{
+		"jornalLabel": "Ciência e Cultura",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q5124809"
+	},
+	{
+		"jornalLabel": "Bom Dia Brasil",
+		"tipoLabel": "news program",
+		"jornal": "http://www.wikidata.org/entity/Q2909568"
+	},
+	{
+		"jornalLabel": "Estado de Minas",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q3058830"
+	},
+	{
+		"jornalLabel": "ISTOÉ",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q3155750"
+	},
+	{
+		"jornalLabel": "Jornal Hoje",
+		"tipoLabel": "news program",
+		"jornal": "http://www.wikidata.org/entity/Q3183940"
+	},
+	{
+		"jornalLabel": "Jornal da Globo",
+		"tipoLabel": "news program",
+		"jornal": "http://www.wikidata.org/entity/Q3183942"
+	},
+	{
+		"jornalLabel": "Brasil de Fato",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q4957805"
+	},
+	{
+		"jornalLabel": "Brasil em Folhas",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q4957806"
+	},
+	{
+		"jornalLabel": "Mundo Estranho",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q6935852"
+	},
+	{
+		"jornalLabel": "Revista Santástico",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q7318490"
+	},
+	{
+		"jornalLabel": "Revista da Folha",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q7318493"
+	},
+	{
+		"jornalLabel": "Piauí",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q7190392"
+	},
+	{
+		"jornalLabel": "Quatro Rodas",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q7269585"
+	},
+	{
+		"jornalLabel": "Exame",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q5419276"
+	},
+	{
+		"jornalLabel": "Folha Egipciense",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q5464355"
+	},
+	{
+		"jornalLabel": "Galileu",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q5518639"
+	},
+	{
+		"jornalLabel": "Geyperman",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q5555000"
+	},
+	{
+		"jornalLabel": "Jornal do Senado",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q5672152"
+	},
+	{
+		"jornalLabel": "Jornal dos Sports",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q6278997"
+	},
+
+
+	{
+		"jornalLabel": "Animax",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q9615892"
+	},
+	{
+		"jornalLabel": "The Rio Times",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q7760823"
+	},
+
+
+
+	{
+		"jornalLabel": "Casseta & Planeta",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q9703256"
+	},
+	{
+		"jornalLabel": "Chet",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q9745217"
+	},
+	{
+		"jornalLabel": "Cinearte",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q9762995"
+	},
+	{
+		"jornalLabel": "Caras",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q9696470"
+	},
+
+	{
+		"jornalLabel": "Brasileiros (magazine)",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q9664275"
+	},
+	{
+		"jornalLabel": "A Nação",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q9558262"
+	},
+	{
+		"jornalLabel": "A Nação",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q9558276"
+	},
+	{
+		"jornalLabel": "A Noite",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q9558312"
+	},
+
+
+	{
+		"jornalLabel": "Deutsches Volksblatt",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q10265818"
+	},
+
+
+	{
+		"jornalLabel": "Correio",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q10260811"
+	},
+	{
+		"jornalLabel": "Correio Mercantil",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q10260820"
+	},
+
+
+
+
+	{
+		"jornalLabel": "Dragão Brasil",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10268717"
+	},
+
+
+	{
+		"jornalLabel": "Ele e Ela",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10271267"
+	},
+	{
+		"jornalLabel": "Espaço Acadêmico",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10274941"
+	},
+	{
+		"jornalLabel": "Exame/PME",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10278589"
+	},
+	{
+		"jornalLabel": "Extra",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q10278872"
+	},
+
+	{
+		"jornalLabel": "Guia Quatro Rodas",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10292685"
+	},
+
+
+
+
+	{
+		"jornalLabel": "Jornal das Familias",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10308465"
+	},
+
+
+
+
+	{
+		"jornalLabel": "La Battaglia",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10315007"
+	},
+
+	{
+		"jornalLabel": "Mundo dos Super-Heróis",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10333212"
+	},
+
+	{
+		"jornalLabel": "Manchete",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10323530"
+	},
+
+
+
+	{
+		"jornalLabel": "Notícias do Dia",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q10337739"
+	},
+
+
+
+
+	{
+		"jornalLabel": "O Cruzeiro",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10338969"
+	},
+	{
+		"jornalLabel": "O Echo Porto Alegrense",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q10339063"
+	},
+	{
+		"jornalLabel": "O Malho",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10339353"
+	},
+
+
+
+
+	{
+		"jornalLabel": "O Tico-Tico",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q10339878"
+	},
+
+
+
+
+	{
+		"jornalLabel": "Saneamento ambiental",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10367628"
+	},
+	{
+		"jornalLabel": "Playboy Brasil",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10350468"
+	},
+
+
+
+
+
+
+	{
+		"jornalLabel": "Revista Autismo",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10360067"
+	},
+	{
+		"jornalLabel": "Revista Brasileira de Ciências Sociais",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10360073"
+	},
+
+
+	{
+		"jornalLabel": "Revista Brasileira de Ensino de Física",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10360077"
+	},
+	{
+		"jornalLabel": "Revista Brasileira de Estudos Políticos",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10360080"
+	},
+
+	{
+		"jornalLabel": "Revista Brasiliense",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10360083"
+	},
+
+
+
+
+	{
+		"jornalLabel": "Clima",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10360092"
+	},
+
+
+
+
+	{
+		"jornalLabel": "Fórum",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10360115"
+	},
+
+
+	{
+		"jornalLabel": "Klaxon",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10360128"
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	{
+		"jornalLabel": "Editora Revista dos Tribunais",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10360196"
+	},
+	{
+		"jornalLabel": "Quadrinhos Independentes",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10355786"
+	},
+
+
+	{
+		"jornalLabel": "Spektro",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10373690"
+	},
+	{
+		"jornalLabel": "Vida Domestica",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10390416"
+	},
+	{
+		"jornalLabel": "Senhor",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10370022"
+	},
+	{
+		"jornalLabel": "Scarium",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10368812"
+	},
+
+	{
+		"jornalLabel": "Set",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10370689"
+	},
+	{
+		"jornalLabel": "Realidade",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10357840"
+	},
+	{
+		"jornalLabel": "Sem Fronteiras",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10369837"
+	},
+	{
+		"jornalLabel": "Sexy",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10370887"
+	},
+	{
+		"jornalLabel": "Você S/A",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10392275"
+	},
+
+
+	{
+		"jornalLabel": "Nikkey Shimbun",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q11324439"
+	},
+	{
+		"jornalLabel": "Jornal A Tarde",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q12344592"
+	},
+	{
+		"jornalLabel": "Tpm",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10383921"
+	},
+	{
+		"jornalLabel": "Transex",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10384127"
+	},
+	{
+		"jornalLabel": "Transporte Moderno",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10384203"
+	},
+
+
+
+
+	{
+		"jornalLabel": "Supergamepower",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10374946"
+	},
+
+	{
+		"jornalLabel": "Trip",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10384847"
+	},
+	{
+		"jornalLabel": "Trivela",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q10384910"
+	},
+	{
+		"jornalLabel": "Revista da Biologia",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q15822625"
+	},
+
+
+
+
+	{
+		"jornalLabel": "Ação Games",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q16484833"
+	},
+
+
+	{
+		"jornalLabel": "Bizz",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q16501702"
+	},
+	{
+		"jornalLabel": "Boa Forma",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q16501811"
+	},
+
+
+	{
+		"jornalLabel": "Ícaro",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q18275858"
+	},
+	{
+		"jornalLabel": "Rock Brigade",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q18280590"
+	},
+	{
+		"jornalLabel": "A Semana",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q16143632"
+	},
+
+
+
+	{
+		"jornalLabel": "Phenix",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q18279858"
+	},
+
+
+
+
+	{
+		"jornalLabel": "Hora Um da Notícia",
+		"tipoLabel": "news program",
+		"jornal": "http://www.wikidata.org/entity/Q18631408"
+	},
+
+	{
+		"jornalLabel": "Don Quixote",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q18246059"
+	},
+
+	{
+		"jornalLabel": "Pessoa (magazine)",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q20942874"
+	},
+
+
+	{
+		"jornalLabel": "D. Quixote",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q19705191"
+	},
+	{
+		"jornalLabel": "Revista do Instituto do Ceará",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q21522065"
+	},
+	{
+		"jornalLabel": "Zaz Traz",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q18285530"
+	},
+	{
+		"jornalLabel": "Biblioteca brasileira",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q22115804"
+	},
+
+
+
+
+
+
+	{
+		"jornalLabel": "Pesquisa FAPESP",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q29305959"
+	},
+
+
+	{
+		"jornalLabel": "X-9",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q25442722"
+	},
+	{
+		"jornalLabel": "Revista Gestão & Saúde",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q28678540"
+	},
+	{
+		"jornalLabel": "A Semana",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q28678713"
+	},
+	{
+		"jornalLabel": "Serrote",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q28678731"
+	},
+	{
+		"jornalLabel": "Brazilian Journal of Biological Sciences",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q28677594"
+	},
+	{
+		"jornalLabel": "Cultura Política",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q28220541"
+	},
+	{
+		"jornalLabel": "Ambiente & Sociedade",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q26829056"
+	},
+	{
+		"jornalLabel": "Educação em Revista",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q28677773"
+	},
+	{
+		"jornalLabel": "Aletria: Revista de Estudos de Literatura",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q28677778"
+	},
+	{
+		"jornalLabel": "Nexo Jornal",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q42715828"
+	},
+	{
+		"jornalLabel": "Nexo Jornal",
+		"tipoLabel": "independent media",
+		"jornal": "http://www.wikidata.org/entity/Q42715828"
+	},
+	{
+		"jornalLabel": "A Noite Ilustrada",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q43057924"
+	},
+	{
+		"jornalLabel": "Superinteressante",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q34076652"
+	},
+	{
+		"jornalLabel": "ARS",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q50521678"
+	},
+	{
+		"jornalLabel": "Significação",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q50516865"
+	},
+	{
+		"jornalLabel": "Novos Olhares",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q50816299"
+	},
+	{
+		"jornalLabel": "Turismo em Análise",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q50668436"
+	},
+	{
+		"jornalLabel": "Estética",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q50815735"
+	},
+	{
+		"jornalLabel": "9ª Arte",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q52138382"
+	},
+	{
+		"jornalLabel": "PAN",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q50854541"
+	},
+
+
+	{
+		"jornalLabel": "A República",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q60999733"
+	},
+
+	{
+		"jornalLabel": "Poder360",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q63728975"
+	},
+	{
+		"jornalLabel": "O Jequitinhonha",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q64489661"
+	},
+	{
+		"jornalLabel": "São Paulo Journal of Mathematical Sciences",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q89419759"
+	},
+	{
+		"jornalLabel": "Comunicação & Educação",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q96702574"
+	},
+	{
+		"jornalLabel": "Matrizes",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q90590848"
+	},
+	{
+		"jornalLabel": "Esquinas",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q93770678"
+	},
+	{
+		"jornalLabel": "Revista aSPAs",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q96719495"
+	},
+	{
+		"jornalLabel": "Organicom",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q96722653"
+	},
+	{
+		"jornalLabel": "Intercâmbio",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q96723949"
+	},
+	{
+		"jornalLabel": "Revista Música",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q96724248"
+	},
+
+	{
+		"jornalLabel": "Sala Preta",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q96727199"
+	},
+	{
+		"jornalLabel": "Extraprensa",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q96722947"
+	},
+	{
+		"jornalLabel": "Signos do Consumo",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q96731048"
+	},
+	{
+		"jornalLabel": "Rumores",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q96726415"
+	},
+	{
+		"jornalLabel": "Revista de geografia",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q103896557"
+	},
+	{
+		"jornalLabel": "Jornal do Comércio",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q104017828"
+	},
+	{
+		"jornalLabel": "O Jornal",
+		"tipoLabel": "newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q104164486"
+	},
+	{
+		"jornalLabel": "Revista O Monitor",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q106053322"
+	},
+	{
+		"jornalLabel": "Originais reprovados",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q106827103"
+	},
+	{
+		"jornalLabel": "Farrapo",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q106847174"
+	},
+	{
+		"jornalLabel": "Revista Anagrama",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q106673728"
+	},
+	{
+		"jornalLabel": "Revista Laika",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q106675844"
+	},
+	{
+		"jornalLabel": "Revista Movimento",
+		"tipoLabel": "online newspaper",
+		"jornal": "http://www.wikidata.org/entity/Q106675974"
+	},
+	{
+		"jornalLabel": "Commercio do Porto de Santos com os paizes extrangeiros",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q107309302"
+	},
+	{
+		"jornalLabel": "Boletim de Agricultura",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q107309350"
+	},
+	{
+		"jornalLabel": "Foreign trade of Brazil",
+		"tipoLabel": "magazine",
+		"jornal": "http://www.wikidata.org/entity/Q107325652"
+	},
+	{
+		"jornalLabel": "Jornal Nacional",
+		"tipoLabel": "news program",
+		"jornal": "http://www.wikidata.org/entity/Q18317"
+	}
+]
